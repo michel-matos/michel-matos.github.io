@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(23, 172, 172);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(73, 152, 221);
+}
+
+.meuNome,
+.decricao {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+em {
+    color: rgb(118, 81, 153);
+}
